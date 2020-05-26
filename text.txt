@@ -1,0 +1,18 @@
+Client ID
+3f5OdMBfKrHTWsS18Xs4Cw
+
+API Key
+mydNoMPwBl9Qa8SG0PlS67M-uN8cZYHMGaBDlf0fUkkP2y14j7Nrs3iiXWUxeWeBoc-t5fDvWXVqqHQQT8zCex7Jv71cHtfMJa56AbvYJcDvi0uDtWnF2vaUYbq_XnYx
+
+npm install react-navigation
+expo install react-native-gesture-handler react-native-reanimated react-native-screens
+npm install react-navigation-stack
+npm install react-native-safe-area-context
+npm install @react-native-community/masked-view
+
+icons
+https://icons.expo.fyi/
+
+axios
+
+
